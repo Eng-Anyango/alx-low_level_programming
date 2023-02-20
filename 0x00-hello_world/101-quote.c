@@ -3,7 +3,7 @@
 /**
  * main -Program that shows the basic operations of an operating system
  *
- * Return: 0 (Success)
+ * Return: 1 (Success)
  */
 int main(void)
 {
